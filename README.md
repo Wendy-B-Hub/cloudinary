@@ -71,3 +71,16 @@ app.post('/api/upload',async (req,res)=>{
 
 ```
 
+## webpage 
+
+### upload image
+
+
+![alt text](https://github.com/Wendy-B-Hub/cloudinary-react/blob/main/uploadImage.jpg)
+
+
+### image gallery
+
+![alt text](https://github.com/Wendy-B-Hub/cloudinary-react/blob/main/imageGallery.jpg)
+
+
